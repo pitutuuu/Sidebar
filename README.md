@@ -1,4 +1,4 @@
-# Sidebar React 
+# Sidebar
 
 Aby włączyć program należy: 
 
